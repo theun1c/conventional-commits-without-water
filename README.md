@@ -51,6 +51,8 @@ If the change is critical, important, or incompatible with previous versions, et
 
 Use an exclamation mark (!) after the main commit signature: ``` type(area)!: ```
 
+> P.S. I'm having some trouble with (!). I think it's because of my terminal. To indicate breaking changes, I write (BC) 
+
 # Examples 
 
 Take a look at these examples
